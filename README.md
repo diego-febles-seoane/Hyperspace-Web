@@ -102,5 +102,6 @@ He usado `Html`, `CSS` y `JavaScript` porque es un legnuaje que tanto DAM como D
 
 A falta de saber que aspectos son necearios para la pagina cree varios que consideros indispensable.
 Falta el final de al pagina las imagenes para que sea correcto para recibir la subvencion.
+Los textos son texto de ejemplo sin relevancia ninguna
 
 ---
