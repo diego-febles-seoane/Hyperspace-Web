@@ -1,7 +1,5 @@
 # Hyperspace-Web
 
-# Hiperspace - Página Web de la Asociación
-
 ## Descripción
 
 Boceto de la web de HyperSpace.
